@@ -8,7 +8,7 @@
     <div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 flex flex-col items-center justify-center min-h-full">
         
         <div class="bg-gray-800 bg-opacity-80 backdrop-filter backdrop-blur-lg rounded-3xl shadow-2xl p-8 sm:p-10 lg:p-12 text-center w-full max-w-4xl transform hover:scale-102 transition-transform duration-300">
-            <img src="{{ asset('storage/images/foto_1.jpeg') }}" 
+            <img src="/foto_1.png" 
                  alt="Tu Foto de Perfil" 
                  class="w-48 h-48 rounded-full mx-auto object-cover border-6 border-primary-light shadow-xl mb-6 ring-4 ring-primary-dark">
             
