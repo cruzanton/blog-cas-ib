@@ -8,3 +8,6 @@
 
 ## 2026-11-20 — v1.1
 - La profesora confirma los criterios (guía 2027, 30 puntos), la regla de no reescribir el texto del alumno y el idioma/tuteo.
+
+## 2026-11-20 — v1.2
+- Reescribir el texto del alumno solo cuando la profesora lo pida expresamente; marcar como "Propuesta de reescritura (uso de la profesora)".
