@@ -1,8 +1,6 @@
 # Criterios de evaluación de la monografía
 
-⚠️ PENDIENTE DE CONFIRMAR POR LA PROFESORA. Hasta que lo confirme, usar estos niveles solo como orientación y avisarlo en el feedback.
-
-Versión que figura aquí (guía de la monografía con primera evaluación en 2027, total 30 puntos):
+Confirmado por la profesora (2026-11-20): guía de la monografía con primera evaluación en 2027, total 30 puntos.
 
 | Criterio | Qué mide | Puntos |
 |---|---|---|
