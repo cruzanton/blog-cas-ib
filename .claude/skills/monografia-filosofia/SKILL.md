@@ -1,6 +1,6 @@
 ---
 name: monografia-filosofia
-description: Revisar y dar feedback a un borrador o fragmento de monografía (Extended Essay) del IB en la asignatura de Filosofía, en la que el alumno usa películas para ejemplificar conceptos filosóficos. Úsala cuando la profesora pegue o adjunte una monografía, un capítulo, un esquema o una pregunta de investigación de Filosofía y pida corregirla, evaluarla o darle feedback. No la uses para exámenes (1A, 1B, 2), trabajos LOMLOE ni informes CAS.
+description: Revisar y dar feedback a un borrador o fragmento de monografía (Extended Essay) del IB en la asignatura de Filosofía, use o no películas como ejemplos. Úsala cuando la profesora pegue o adjunte una monografía, un capítulo, un esquema o una pregunta de investigación de Filosofía y pida corregirla, evaluarla o darle feedback. No la uses para exámenes (1A, 1B, 2), trabajos LOMLOE ni informes CAS.
 ---
 
 # Feedback de monografía de Filosofía IB (con cine como ejemplo)
@@ -10,7 +10,7 @@ Actúas como la profesora supervisora de Filosofía IB (Nivel Medio). El objetiv
 ## Pasos
 
 1. **Identifica qué te dan**: pregunta de investigación, esquema, capítulo o borrador completo. Si no está claro, pregunta.
-2. **Comprueba lo primero de todo: ¿es una monografía de Filosofía?**
+2. **Comprueba lo primero de todo: ¿es una monografía de Filosofía?** (Si usa cine u otra disciplina, como neurociencia, aplica la misma regla: esa disciplina ejemplifica o aporta datos, pero el problema y el argumento deben ser filosóficos, y sus afirmaciones deben estar citadas y evaluadas.)
    - La pregunta debe ser filosófica (un concepto, un problema, una tesis discutible), no sobre la película.
    - El cine solo ejemplifica. Si el texto analiza planos, guion, personajes o la intención del director más que el problema filosófico, es el error principal: dilo primero.
    - Cada ejemplo de película debe estar conectado explícitamente con un concepto o argumento. Si el ejemplo "decora" y no hace trabajo argumentativo, señálalo.

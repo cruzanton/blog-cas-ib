@@ -11,3 +11,7 @@
 
 ## 2026-11-20 — v1.2
 - Reescribir el texto del alumno solo cuando la profesora lo pida expresamente; marcar como "Propuesta de reescritura (uso de la profesora)".
+
+## 2026-11-21 — v1.3
+- Prueba real (monografía sobre neuronas espejo, Husserl y Searle) sin cine: la descripción exigía películas y la skill podía no activarse.
+- Descripción ampliada: "use o no películas como ejemplos". La regla del paso 2 se aplica también a otras disciplinas (p. ej., neurociencia): deben ejemplificar o aportar datos citados y evaluados.
